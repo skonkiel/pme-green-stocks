@@ -1,0 +1,31 @@
+﻿Name,Ticker,Category,ETF
+Brookfield Renewable Partners,BEP,power_hydro,
+General Electric,GE,power_wind,
+NextEra Energy Partners,NEP,power_wind,
+Siemens Gamesa Renewable Energy,GCTAY,power_wind,
+Vestas Wind Systems,VWDRY,power_wind,
+First Trust Global Wind Energy ETF,FAN,power_wind,y
+First Solar,FSLR,power_solar,
+JinkoSolar Holding,JKS,power_solar,
+Sunpower,SPWR,power_solar,
+Enphase Energy,ENPH,power_solar,
+Sunrun,RUN,power_solar,
+Vivint Solar,VSLR,power_solar,
+Invesco Solar ETF,TAN,power_solar,y
+Fuel-Tech,FTEK,pollution_control,
+VanEck Vectors Environmental Services ETF,EVX,pollution_control,y
+Invesco Cleantech ETF,PZD,pollution_control,y
+Tesla,TSLA,transportation,
+Ballard Power Systems,BLDP,batteries,
+FuelCell Energy,FCEL,batteries,
+United Natural Foods,UNFI,food,
+Mowi ASA,MNHVF,food,
+Ormat Technologies,ORA,power_geothermal,
+Azure Power,AZRE,power_solar,
+Boralex Inc,BRLXF,power_wind,
+First National Energy Corp,FNEC,power_wind,
+Global X Autonomous & Electric Vehicles ETF,DRIV,transportation,y
+Ford Motor Company,F,transportation,
+General Motors,GM,transportation,
+Ingredion,INGR,food,
+Laird Superfood,LSF,food,
